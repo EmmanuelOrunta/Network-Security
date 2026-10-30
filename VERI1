@@ -1,0 +1,7 @@
+/home/emma/itec624/Test|directory|drwxr-xr-x|1000|1000|1791732275|1791732275|-
+/home/emma/itec624/Test/1.txt|regular file|-rw-r--r--|1000|1000|1791732275|1791732275|8361a3b85ab790e1ef70721b49b8bc7e
+/home/emma/itec624/Test/2.txt|regular file|-rw-r--r--|1000|1000|1791732275|1791732275|05b51875e01ad2a44e01f7a99d29c123
+/home/emma/itec624/Test/3.txt|regular file|-rw-r--r--|1000|1000|1791732275|1791732275|df643e4329060faf2e2326b931350bf6
+/home/emma/itec624/Test/latest_payroll|symlink|lrwxrwxrwx|1000|1000|1791732275|1791732275|-
+/home/emma/itec624/Test/records|directory|drwxr-xr-x|1000|1000|1791732275|1791732275|-
+/home/emma/itec624/Test/records/intake form.txt|regular file|-rw-r--r--|1000|1000|1791732275|1791732275|badf8e8ab94793f919655be3c565c0a8
